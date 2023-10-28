@@ -27,6 +27,14 @@
 
 ---
 
+<p align="center">
+  <samp>
+    For an end-to-end MLOps pipeline for image classification on AWS, <a href="https://github.com/Project-Kidu/code-repo">click here</a>
+  </samp>
+</p>
+
+---
+
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   <a href="https://www.python.org/">
